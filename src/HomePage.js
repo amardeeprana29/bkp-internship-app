@@ -1,42 +1,54 @@
-// src/HomePage.js
-import React from 'react';
+    import React from 'react';
 
-function HomePage() {
-    return (
-        <div style={containerStyle}>
-        <h1 style={headingStyle}>Welcome to BKP Internship Portal</h1>
-        <p style={paragraphStyle}>
-            This platform is built to manage Intern and Volunteer applications for Basti Ki Pathshala Foundation.
-        </p>
-        <p style={paragraphStyle}>
-            Click the navigation links above to register or view the list of applicants.
-        </p>
-        </div>
-    );
-    }
-
+    const HomePage = () => {
+    // Inline styles for cleaner structure
     const containerStyle = {
-    maxWidth: '800px',
-    margin: '50px auto',
-    padding: '30px',
-    background: '#fff',
-    borderRadius: '12px',
-    boxShadow: '0 4px 12px rgba(0,0,0,0.1)',
-    fontFamily: 'Segoe UI, sans-serif',
-    textAlign: 'center',
-    color: '#333'
+        maxWidth: '900px',
+        margin: '40px auto',
+        padding: '20px',
+        textAlign: 'center',
+        fontFamily: 'Arial, sans-serif'
     };
 
     const headingStyle = {
-    fontSize: '2rem',
-    marginBottom: '20px',
-    color: '#007bff'
+        fontSize: '28px',
+        color: '#333',
+        marginBottom: '10px'
     };
 
     const paragraphStyle = {
-    fontSize: '1.1rem',
-    lineHeight: '1.6',
-    marginBottom: '15px'
+        fontSize: '16px',
+        color: '#555',
+        marginBottom: '30px'
     };
 
-export default HomePage;
+    const galleryStyle = {
+        display: 'flex',
+        flexWrap: 'wrap',
+        gap: '20px',
+        justifyContent: 'center'
+    };
+
+    const imageStyle = {
+        width: '100%',
+        maxWidth: '400px',
+        borderRadius: '10px',
+        boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)'
+    };
+
+    return (
+        <div style={containerStyle}>
+        <h1 style={headingStyle}>Welcome to BKP Registration App</h1>
+        <p style={paragraphStyle}>
+            Empowering youth through education, support, and community engagement. Join us in making a difference through volunteering and internships.
+        </p>
+
+        <div style={galleryStyle}>
+            <img src="/ngo1.jpg" alt="Volunteers helping" style={imageStyle} />
+            <img src="/ngo2.jpg" alt="childrens" style={imageStyle} />
+        </div>
+        </div>
+    );
+    };
+
+    export default HomePage;
