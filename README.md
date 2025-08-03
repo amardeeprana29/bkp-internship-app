@@ -35,6 +35,7 @@ A responsive full-stack web application built for the **Basti Ki Pathshala Found
 
 ---
 
+
 ## 🚀 How to Run Locally
 
 ```bash
@@ -43,6 +44,10 @@ cd bkp-internship-app
 npm install
 npm start
 
+## 📌 Project by
+
+**Amardeep Rana**
+
 ---
 
 ## 📬 Contact
@@ -50,6 +55,6 @@ npm start
 If you have any questions or feedback, feel free to connect:
 
 - 🔹 **Name:** Amardeep Rana
-- 📧 **Email:** amardeeprana2905@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/amardeeprana29](https://www.linkedin.com/in/amardeeprana29/)
-- 💻 **GitHub:** [github.com/amardeeprana29](https://github.com/Amardeeprana29)
+- 📧 **Email:** amardeeprana29@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/amardeeprana29/](https://www.linkedin.com/in/amardeeprana29/)
+- 💻 **GitHub:** [https://github.com/Amardeeprana29](https://github.com/Amardeeprana29)
