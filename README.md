@@ -44,11 +44,10 @@ cd bkp-internship-app
 npm install
 npm start
 
+---
 ## 📌 Project by
 
 **Amardeep Rana**
-
----
 
 ## 📬 Contact
 
