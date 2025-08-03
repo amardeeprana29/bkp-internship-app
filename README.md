@@ -44,7 +44,7 @@ A responsive full-stack web application built for the **Basti Ki Pathshala Found
 If you have any questions or feedback, feel free to connect:
 
 - 🔹 **Name:** Amardeep Rana
-- 📧 **Email:** amardeeprana29@gmail.com
+- 📧 **Email:** amardeeprana2905@gmail.com
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/amardeeprana29/](https://www.linkedin.com/in/amardeeprana29/)
 - 💻 **GitHub:** [https://github.com/Amardeeprana29](https://github.com/Amardeeprana29)
 

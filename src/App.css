@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 600px; /* Allow horizontal scroll on small screens */
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+  font-size: 14px;
+}
+
+@media (max-width: 600px) {
+  th, td {
+    font-size: 12px;
+    padding: 8px;
+  }
+}
