@@ -35,16 +35,6 @@ A responsive full-stack web application built for the **Basti Ki Pathshala Found
 
 ---
 
-
-## 🚀 How to Run Locally
-
-```bash
-git clone https://github.com/amardeeprana29/bkp-internship-app
-cd bkp-internship-app
-npm install
-npm start
-
----
 ## 📌 Project by
 
 **Amardeep Rana**
@@ -57,3 +47,16 @@ If you have any questions or feedback, feel free to connect:
 - 📧 **Email:** amardeeprana29@gmail.com
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/amardeeprana29/](https://www.linkedin.com/in/amardeeprana29/)
 - 💻 **GitHub:** [https://github.com/Amardeeprana29](https://github.com/Amardeeprana29)
+
+
+---
+
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/amardeeprana29/bkp-internship-app
+cd bkp-internship-app
+npm install
+npm start
+
