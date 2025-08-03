@@ -42,3 +42,14 @@ git clone https://github.com/amardeeprana29/bkp-internship-app
 cd bkp-internship-app
 npm install
 npm start
+
+---
+
+## 📬 Contact
+
+If you have any questions or feedback, feel free to connect:
+
+- 🔹 **Name:** Amardeep Rana
+- 📧 **Email:** amardeeprana2905@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/amardeeprana29](https://www.linkedin.com/in/amardeeprana29)
+- 💻 **GitHub:** [github.com/amardeeprana29](https://github.com/amardeeprana29)
